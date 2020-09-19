@@ -1,1 +1,1 @@
-# Personal webpage : Ayush Pandey
+# Personal webpage : Puneet Panwar
