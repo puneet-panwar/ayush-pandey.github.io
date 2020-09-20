@@ -13,7 +13,7 @@ Control System Engineering from the Electrical Engineering department.
 
 
 ## Research Interests
-<!---
+
 * Control theory
 * Systems and synthetic biology
 * Robust and optimal control
