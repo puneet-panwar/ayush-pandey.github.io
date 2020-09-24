@@ -8,7 +8,7 @@ layout: default
 
 I am working as a Scientific Officer at Bhabha Atomic Research Centre (BARC), Mumbai. I work in the field of mathematical modeling & control system design of process and robotics systems. Refer to the [Projects](https://puneet-panwar.github.io/projects) and [Publications](https://puneet-panwar.github.io/publication) page for more information on my current work.
 
-Before joining BARC, I graduated with a masters degree in Control System Engineering from Electrical Engineering department, Indian Institute of Technoloy (IIT) Kharagpur, India. My Bachelor of Technology (Hons.) degree is in Electronics & Instrumentation Engineering from MIET, Meerut affiliated to Uttar Pradesh Technical University.
+Before joining BARC, I graduated with a masters degree in Control System Engineering from Electrical Engineering department, Indian Institute of Technoloy (IIT) Kharagpur, India. My Bachelor of Technology (Hons.) degree is in Electronics & Instrumentation Engineering from MIET, Meerut affiliated to Uttar Pradesh Technical University (UPTU).
 
 ## Research Interests
 
