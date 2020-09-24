@@ -5,7 +5,7 @@ is_contact: true
 Interested in my research? Have any suggestions/questions for me? I would be glad to hear from you. 
 Send me an email and I will get back to you as soon as I can.
 
-* Email: panwarp@barc.gov.in, puneetpanwar1993@gmail.com
+* Email: puneetpanwar1993 AT gmail dot com
 
 ## Mailing Address
 
