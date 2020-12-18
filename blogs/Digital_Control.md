@@ -10,9 +10,11 @@ Following image shows the block diagram of basic control system:
 
 ![Block Diagram of Digital Control System](/images/DC.jpg)
 
+<!---
 <p align="center">
   <img src="/images/DC.jpg">
 </p>
+--->
 
 <!---
 <p align="center">
