@@ -1,4 +1,4 @@
-## [Digital Control Systems](https://github.com/puneet-panwar.github.io/blogs/Digital_Control)
+- ## [Digital Control Systems](https://github.com/puneet-panwar.github.io/blogs/Digital_Control)
 
 
 ## [For the heck of Stability Margins](https://puneet-panwar.github.io/blogs/Stability_margin_blog)
