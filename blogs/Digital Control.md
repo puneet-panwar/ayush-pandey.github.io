@@ -1,3 +1,3 @@
-**Introduction**
+# Introduction
 
-Use of digitak computers in the real-time control of dynamic systems
+In this blog, we will discuss the use of digital computers in the real-time control of dynamic systems.
