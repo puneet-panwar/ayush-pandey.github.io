@@ -1,5 +1,7 @@
 - ## [Digital Control Systems](https://github.com/puneet-panwar.github.io/blogs/Digital_Control)
-uploaded on: December 12, 2020
+#### Uploaded on: December 12, 2020
+#### Last Edit:
+
 This blog discusses, the use of digital computers in the real-time control of dynamic systems.
 
 
