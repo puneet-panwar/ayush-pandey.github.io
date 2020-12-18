@@ -1,4 +1,4 @@
-- ## [Digital Control Systems](https://github.com/puneet-panwar.github.io/blogs/Digital_Control)
+- ## [Digital Control Systems](https://puneet-panwar.github.io/blogs/Digital_Control)
 ##### Uploaded on: December 12, 2020   
 ##### Last Edit:    
 
