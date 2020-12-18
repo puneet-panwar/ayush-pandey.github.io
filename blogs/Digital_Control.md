@@ -4,7 +4,8 @@
 In this article, we will discuss the use of digital computers in the real-time control of dynamic systems.  
 #### Why Digital Control ?   
 - Increased flexibilty of selecting control algorithm.   
-- one hardware design with many different software variations can be used for a range of products.
+- one hardware design with many different software variations can be used for a range of products.   
+
 Following image shows the block diagram of basic control system: 
 
 ![Block Diagram of Digital Control System](/images/DC.jpg)
