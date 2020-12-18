@@ -10,10 +10,6 @@ Following image shows the block diagram of basic control system:
 
 ![Block Diagram of Digital Control System](/images/DC.jpg)
 
-**Note:** Sampling frequency should be 30 times or more than the system bandwidth.
-
-$$ x=\sqrt{2} $$
-
 <!---
 <p align="center">
   <img src="/images/DC.jpg">
@@ -25,3 +21,5 @@ $$ x=\sqrt{2} $$
   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p> 
 --->
+
+**Note:** Sampling frequency should be 30 times or more than the system bandwidth.
