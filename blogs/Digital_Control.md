@@ -11,7 +11,7 @@ Following image shows the block diagram of basic control system:
 ![Block Diagram of Digital Control System](/images/DC.jpg)
 
 <p align="center">
-  <img width="460" height="300" src="/images/DC.jpg">
+  <img src="/images/DC.jpg">
 </p>
 
 <!---
