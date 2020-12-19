@@ -9,8 +9,7 @@ Send me an email and I will get back to you as soon as I can.
 
 ### Mailing Address
 
-MM1, RCn Building,
-BARC, Mumbai - 400085, India
+*MM1, RCn Building, BARC, Mumbai - 400085, India*
 
 ### Social
 
