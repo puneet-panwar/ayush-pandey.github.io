@@ -10,7 +10,6 @@ Send me an email and I will get back to you as soon as I can.
 ### Mailing Address
 
 *MM1, RCn Building, BARC, Mumbai - 400085, India*
-<span style="color: green"> Some green text </span>
 
 ### Social
 
