@@ -7,7 +7,7 @@ Send me an email and I will get back to you as soon as I can.
 
 ### Email:
 
-puneetpanwar1993 [at] gmail [dot] com
+*puneetpanwar1993 [at] gmail [dot] com*
 
 ### Mailing Address:
 
