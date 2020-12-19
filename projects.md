@@ -1,14 +1,13 @@
-# Current Projects
+## Current Projects
 Description
 
-## Current Project 1
+### Current Project 1
 
-# Completed projects
+## Completed projects
 	
 ## Completed Project 1
 
-# Past projects 
-
+## Past projects 
 
 * Masters Thesis Project Title
 	- Masters thesis project at IIT Kharagpur
