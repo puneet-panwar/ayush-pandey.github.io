@@ -1,7 +1,7 @@
 - name: "Contact"
   link: "/contact"
   
-- name: "<span style="color: red;">Resources</span>"
+- name: "Resources"
   link: "/resources"
   
 - name : "Projects"
