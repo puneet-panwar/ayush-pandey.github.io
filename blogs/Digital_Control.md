@@ -18,3 +18,8 @@ Following image shows the block diagram of basic control system:
 </p> --->
 
 **Note:** Sampling frequency should be 30 times or more than the system bandwidth.
+
+
+
+
+[Digital Control Notes from ETH, Zurich](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Digital-Control-Systems/Slides_DigReg_2013.pdf)
