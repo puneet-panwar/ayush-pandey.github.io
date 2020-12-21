@@ -9,7 +9,7 @@ This blog discusses, the use of digital computers in the real-time control of dy
 Talk about classical view of stability margins and how it has evolved for the Robust Control System.
 
     
-### *All other micro-blogs available on* [Twitter]()
+### All other micro-blogs available on [Twitter]()
 
 
 
