@@ -24,6 +24,6 @@ Following image shows the block diagram of basic control system:
 **References:**
 - [Digital Control Notes from ETH, Zurich](https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Lectures/Digital-Control-Systems/Slides_DigReg_2013.pdf)  
 - [Digital Control Lab](http://mocha-java.uccs.edu/CSL/ece4560.pdf)  
--[Discrete Time PID Control Implementation](https://www.scilab.org/discrete-time-pid-controller-implementation)
+- [Discrete Time PID Control Implementation](https://www.scilab.org/discrete-time-pid-controller-implementation)
 
 
