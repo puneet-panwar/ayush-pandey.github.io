@@ -5,7 +5,6 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="Puneet_dp.jpg">
-<em>image_caption</em>
 
 I am working as a Scientific Officer at Bhabha Atomic Research Centre (BARC), Mumbai. <ins> I work in the field of mathematical modeling & control system design of process and robotics systems</ins>. Refer to the [Projects](https://puneet-panwar.github.io/projects) and [Publications](https://puneet-panwar.github.io/publication) page for more information on my current work.
 
