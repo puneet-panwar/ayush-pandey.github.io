@@ -19,4 +19,4 @@ Before joining BARC, I graduated with a masters degree in Control System Enginee
 
 ---
 <hr>
-* "That's all any of us are: amateurs. We don't live long enough to be anything else."* - Charlie Chaplin
+*"That's all any of us are: amateurs. We don't live long enough to be anything else."* - Charlie Chaplin
